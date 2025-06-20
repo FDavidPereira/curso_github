@@ -1,4 +1,4 @@
-![Logo do GIT](url)
+![Logo do GIT](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
 [Boas vindas](#bem-vindo-ao-curso-de-git-e-github) |
 [Módulos](#módulo) |
@@ -76,4 +76,9 @@ name | Para informar o nome do usuario
 Size | Para definir o tamanho do campo
 Background | Cor do fundo em HEXA
 onPress | Função chamada ao clicar no botão
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
 

@@ -1,6 +1,8 @@
 ![Logo do GIT](url)
 
-
+[Boas vindas](#bem-vindo-ao-curso-de-git-e-github) |
+[Módulos](#módulo) |
+[Rede Sociais](#rede-social)
 
 # Bem vindo ao curso de Git e GitHub.
 

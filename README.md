@@ -31,5 +31,10 @@ Nesse curso você vai dominar todo **git** e **github** do zero ao _proficional_
 ## Rede social
 
 [Instagram](https://www.instagram.com/daviid.dev/)
+
 [Linkedin](https://www.linkedin.com/in/f-david-pereira/)
+
+> Este é um Blockquote, usado para destacar alguma área
+>
+> Segubda área destacada
 

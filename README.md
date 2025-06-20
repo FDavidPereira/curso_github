@@ -38,3 +38,26 @@ Nesse curso você vai dominar todo **git** e **github** do zero ao _proficional_
 >
 > Segubda área destacada
 
+```
+npm start
+```
+``` Javascript
+function showName(name) {
+    return 'Bem vindo' + name
+}
+```
+
+``` html
+<h1>
+    Titulo do Projeto
+    <span>Curso GIT</span>
+</h1>
+```
+
+``` css
+.titulo{
+    background: #000;
+    color: #fff
+}
+```
+

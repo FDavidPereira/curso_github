@@ -38,14 +38,20 @@ Nesse curso você vai dominar todo **git** e **github** do zero ao _proficional_
 >
 > Segubda área destacada
 
+## Comandos para rodar o projeto
+
 ```
 npm start
 ```
+
+### Exemplo de Script
+
 ``` Javascript
 function showName(name) {
     return 'Bem vindo' + name
 }
 ```
+### Uso do HTML
 
 ``` html
 <h1>
@@ -53,6 +59,7 @@ function showName(name) {
     <span>Curso GIT</span>
 </h1>
 ```
+### CSS padrão do projeto
 
 ``` css
 .titulo{
@@ -60,4 +67,11 @@ function showName(name) {
     color: #fff
 }
 ```
+
+Propeiedades  |  Descrição
+------------|------------
+name | Para informar o nome do usuario
+Size | Para definir o tamanho do campo
+Background | Cor do fundo em HEXA
+onPress | Função chamada ao clicar no botão
 
